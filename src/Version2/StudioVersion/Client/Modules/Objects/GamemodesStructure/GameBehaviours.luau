@@ -1,0 +1,3 @@
+local GameBehaviours = {}
+
+return GameBehaviours

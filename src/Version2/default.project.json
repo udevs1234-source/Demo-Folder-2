@@ -1,0 +1,16 @@
+{
+  "name": "Version2",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "$path": "RealVersion"
+    },
+
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "$path": "RealVersion"
+    }
+  }
+}

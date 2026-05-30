@@ -1,0 +1,12 @@
+{
+  "luau-lsp.sourcemap.enabled": true,
+  "luau-lsp.sourcemap.sourcemapFile": "sourcemap.json",
+  "luau-lsp.sourcemap.rojoProjectFile": "default.project.json",
+
+  "luau-lsp.diagnostics.globals": [
+    "game",
+    "workspace",
+    "script",
+    "require"
+  ]
+}
